@@ -1,4 +1,14 @@
 {
 "name": "@power137/tiny",
-"version": "0.0.1"
+"version": "0.0.1",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "git@github.com:power17/tiny.git",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ]
 }
