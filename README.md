@@ -1,9 +1,8 @@
 # @power137/tiny
 
-[![npm (scoped)](https://img.shields.io/badge/npm-0.0.1-blue)](https://www.npmjs.com/package/@bamblehorse/tiny)
-[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@bamblehorse/tiny.svg)](https://www.npmjs.com/package/@bamblehorse/tiny)
+[![npm (scoped)](https://img.shields.io/badge/npm-0.0.1-blue)](https://www.npmjs.com/package/@power137/tiny)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://www.npmjs.com/package/@power137/tiny)
 
-Removes all spaces from a string.
 
 ## Install
 
@@ -14,7 +13,7 @@ $ npm install @bamblehorse/tiny
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@power137/tiny");
 tiny("So much space!");
 //=> "Somuchspace!"
 tiny(1337);
